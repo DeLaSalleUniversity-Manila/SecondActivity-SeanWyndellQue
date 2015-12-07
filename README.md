@@ -1,4 +1,4 @@
 # Linking Android Activities (SecondActivity-SeanWyndellQue)
 
-![screenshot](screenshot_MainActivity.png)
-![screenshot](screenshot_SecondActivity.png)
+![screenshot](Screenshot_MainActivity.png)
+![screenshot](Screenshot_SecondActivity.png)
